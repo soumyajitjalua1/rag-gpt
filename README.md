@@ -18,7 +18,7 @@ To employ any of these methods, simply configure the appropriate settings in the
 ## RAG-GPT User Interface
 
 <div align="center">
-  <img src="images/RAGGPT UI.png" alt="RAG-GPT UI">
+  <img src="Screenshot 2025-01-26 001207.png" alt="RAG-GPT UI">
 </div>
 
 ## Project Schema
